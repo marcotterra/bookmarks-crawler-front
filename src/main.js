@@ -4,6 +4,8 @@ import store from "@/store";
 import App from "@/App.vue";
 
 import "@/plugins/registerServiceWorker";
+import "@/plugins/buefy";
+import "@/assets/styles/main.styl";
 
 Vue.config.productionTip = false;
 

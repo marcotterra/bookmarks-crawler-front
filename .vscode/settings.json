@@ -1,5 +1,10 @@
 {
   "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "vetur.format.defaultFormatter.stylus": "stylus-supremacy",
+  "prettier.eslintIntegration": true,
+  "stylusSupremacy.insertBraces": false,
+  "stylusSupremacy.insertColons": false,
+  "stylusSupremacy.insertSemicolons": false,
   "eslint.autoFixOnSave": true,
   "eslint.validate": [
     {
